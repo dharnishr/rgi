@@ -23,6 +23,9 @@ RUN \
     tar xvf diamond-linux64.tar.gz && \
     mv diamond /usr/bin
 
+#upgrade pip
+RUN pip3 install --upgrade pip
+
 # install and test rgi
 RUN git clone https://github.com/arpcard/rgi
 WORKDIR rgi/
