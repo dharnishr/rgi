@@ -10,5 +10,5 @@ pyahocorasick==1.1.8
 samtools==1.9
 bamtools==2.5.1
 bedtools==2.27.1
-Jellyfish=2.2.10
+Jellyfish==2.2.10
 BWA==0.7.17
