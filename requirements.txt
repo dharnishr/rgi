@@ -7,3 +7,8 @@ matplotlib>=2.1.2
 seaborn>=0.8.1
 pyfaidx>=0.5.4.1
 pyahocorasick==1.1.8
+samtools==1.9
+bamtools==2.5.1
+bedtools==2.27.1
+Jellyfish=2.2.10
+BWA==0.7.17
